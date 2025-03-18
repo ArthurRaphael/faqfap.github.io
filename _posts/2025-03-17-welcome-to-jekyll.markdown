@@ -8,8 +8,8 @@ A Formação Acelerada em Programação tem o objetivo de capacitar jovens e adu
 
 Com uma ementa criada por acadêmicos e líderes de empresas de tecnologia, o FAP está formando mais de 1.500 estudantes e criando oportunidades através da formação e da residência integrada ao programa.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Para ter mais informações sobre todo o processo do FAP, acesse o link ao lado: [Página do FAP][página do FAP].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[Página do FAP]: https://test.fap.softexrecife.org.br/
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
