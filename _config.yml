@@ -19,8 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 nav_enabled: true 
-favicon_ico: "c:\Users\FAEL\Downloads\softex_pernambuco.png"
-logo: "c:\Users\FAEL\Downloads\softex_pernambuco.png"
 title: Perguntas Frequentes (FAP e MPT)
 email: formacao@softexpe.org.br
 description: >- # this means to ignore newlines until "baseurl:"
