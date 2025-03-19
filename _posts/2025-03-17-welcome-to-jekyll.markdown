@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Softex FAP (FAQ)"
+title:  "FAP (FAQ)"
 date:   2025-03-17 17:06:34 -0300
 categories: jekyll update
 ---
