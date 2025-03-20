@@ -12,7 +12,9 @@ Com uma ementa criada por acadêmicos e líderes de empresas de tecnologia, o FA
 
 Para ter mais informações sobre todo o processo do FAP, acesse o link ao lado: [Página do FAP][página do FAP].
 
-- [Acessando o Sistema do FAP (Admin)](https://www.notion.so/Fazendo-o-login-no-FAP-Admin-68537f713f0c45b7bbebdcd498d61f6c)
+# Dúvidas 
+
+- [Acessando o Sistema do FAP (Admin)](http://127.0.0.1:4000/acessandoosistemadomptadm/)
 
 [Página do FAP]: https://test.fap.softexrecife.org.br/
 [jekyll-gh]:   https://github.com/jekyll/jekyll

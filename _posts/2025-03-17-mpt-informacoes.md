@@ -12,9 +12,7 @@ O MPT.Br é um modelo de Melhoria do Processo de Teste concebido para apoiar org
 Para ter mais informações sobre como funciona o sistema do MPT.BR, acesse o link ao lado: [Página do MPT.BR][página do MPT.BR].
 
 # Dúvidas
-
-- [Como Acessar o Sistema do MPT (Admin)](https://www.notion.so/Fazendo-o-login-no-FAP-Admin-68537f713f0c45b7bbebdcd498d61f6c)
-
+- [Como Acessar o Sistema do MPT (Admin)](http://127.0.0.1:4000/acessandoosistemadomptadm)
 
 [Página do MPT.BR]: https://test.mpt.org.br
 [jekyll-gh]:   https://github.com/jekyll/jekyll
