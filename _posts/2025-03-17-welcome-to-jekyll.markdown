@@ -14,7 +14,7 @@ Para ter mais informações sobre todo o processo do FAP, acesse o link ao lado:
 
 # Dúvidas 
 
-- [Acessando o Sistema do FAP (Admin)](http://127.0.0.1:4000/acessandoosistemadomptadm/)
+- [Acessando o Sistema do FAP (Admin)](http://127.0.0.1:4000/acessandoosistemadofapadm/)
 
 [Página do FAP]: https://test.fap.softexrecife.org.br/
 [jekyll-gh]:   https://github.com/jekyll/jekyll
