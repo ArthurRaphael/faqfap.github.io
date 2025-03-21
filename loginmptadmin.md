@@ -4,9 +4,10 @@ post title: Acessando
 permalink: /acessandoosistemadomptadm/
 categories: information
 ---
+[Voltar](http://127.0.0.1:4000/information/2025/03/19/mpt-informacoes.html){: .btn .btn-outline }
+
 <span style="font-size: 40px;">Acessando o sistema do MPT (Admin)</span>.
 
-[Voltar](http://127.0.0.1:4000/information/2025/03/19/mpt-informacoes.html){: .btn .btn-outline }
 
 Acessando o site fap.softexrecife.org.br/entrar, após a página abrir, o usuário será direcionado para a página de login e terá que preencher os campos de “Email” e “Senha”. Pronto !. Você logou no sistema.
 
